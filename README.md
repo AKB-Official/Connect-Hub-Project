@@ -1,5 +1,5 @@
 # Connect-Hub-Project
-[GitHub Pages Link](https://darthcoursucant.github.io/Connect-Hub/)
+[GitHub Pages Link](https://akb-official.github.io/Connect-Hub-Project/)
 
 ## Created With
     - HTML 
